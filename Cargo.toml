@@ -1,6 +1,8 @@
 [package]
-name = "networktables"
+name = "ntcore"
 version = "0.1.0"
 authors = ["XavilPergis <max.duzen@gmail.com>"]
 
 [dependencies]
+ntcore-sys = "0.1.1"
+lazy_static = "1.0.0"

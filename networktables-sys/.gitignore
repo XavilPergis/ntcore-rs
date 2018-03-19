@@ -1,3 +1,0 @@
-target/**
-# We're producing a library
-Cargo.lock
